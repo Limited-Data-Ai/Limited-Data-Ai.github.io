@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Limited-Data-Ai/Limited-Data-Ai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Limited Data Ai
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Limited Data Ai or LDAI is an artificial intelligence coded to not learn specific data or ai learing is limited so it cant learn to hurt humans ect.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why is this needed 
+For ai that learn to drive a car, that ai need to be expose to data that teaches ai how to drive. What if hacker get to data and can send data to that ai. Ai can learn to drive normaly but lets say after 10 days to kill everyone in the car. But with LDAI data that ai CAN learn is coded so Ai only can learn to drive it its expose to data that is not data for learning how to drive it will skip it, will not learn it. 
+### Ai problems
+Ai is all good and great buy when it goes wrong it will remind you how powerfull it is. That is why we need LDAI we cant let ai to learn everything we need to block data that can brake Ai we can see example of Microsoft ai.
+t took less than 24 hours for Twitter to corrupt an innocent AI chatbot. , Microsoft [unveiled Tay](http://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft)  — a Twitter bot that the company described as an experiment in "conversational understanding." The more you chat with Tay, said Microsoft, the smarter it gets, learning to engage people through "casual and playful conversation."
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Limited-Data-Ai/Limited-Data-Ai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Unfortunately, the conversations didn't stay playful for long. Pretty soon after Tay launched, people starting tweeting the bot with all sorts of misogynistic, racist, and Donald Trumpist remarks. And Tay — being essentially a robot parrot with an internet connection — started repeating these sentiments back to users, proving correct that old programming adage: flaming garbage pile in, flaming garbage pile out.
+## Project Developers
+Lead developer Toni  Dumancic.
+## Community
+[Discord](https://discord.gg/bFsSV9meYQ) 
